@@ -45,11 +45,11 @@ const float VALOR_GANO_JUSTO = 65.0F;
 #define MSJ_RESULT_DESC "\n\n\n\n\tEleven enfrento al Demogorgon pero no parecia que lo pudiera vencer\n\thasta que una luz cubrio todo el lugar desapareciendo al Demogorgon junto a Eleven\n\n\tFin.. ?\n\n"
 
 
-
+/*
 void comenzar_enfrentamiento(){
 }
 
-/*
+
 
 int recibir_animo(){
 }
